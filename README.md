@@ -9,7 +9,7 @@ We created a combined repository conformed by the repository of the package and 
 * [Testing repository](https://github.com/ULL-ESIT-PL-1718/prueba-oop-alu0100973914.git)
 
 ## Package publication
-The other objective to achieve was the publication of our package (developed for the last practice)  in npm site. After establishing properly the **package.json** file and login in via command line we could execute the next command to publish our package:
+The other objective to achieve was the publication of our package (as a scoped package)  in npm site. After establishing properly the **package.json** file and login in via command line we could execute the next command to publish our package:
 ```bash
 	npm publish --access=public
 ```
