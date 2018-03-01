@@ -14,3 +14,18 @@ The other objective to achieve was the publication of our package (as a scoped p
 	npm publish --access=public
 ```
 * [Published package:@alu0100973914/oop](https://www.npmjs.com/package/@alu0100973914/oop)
+
+## Code documentation
+To see the code documentation click [here](https://ull-esit-pl-1718.github.io/oop-alu0100973914/).
+
+## Open / Closed Principle
+Now the users of the package can add it's own type of cell without modifying the code, they have to use the met
+hods of the registry class **addMapClass** and **findClass**. These two methods are exported as a part of the module.
+```js
+  var module = require("@alu0100973914/oop);
+	module.Registry.addMapClass("ChuchuCell");
+```
+
+## Npm package badge
+A npm package badge have been added to the README.md file of the module, [see](https://github.com/ULL-ESIT-PL-1718/oop-alu0100973914.git)
+
