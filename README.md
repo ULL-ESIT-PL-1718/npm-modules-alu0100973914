@@ -7,6 +7,7 @@ In this practice we learned to create **combined repositories** with the command
 We created a combined repository conformed by the repository of the package and the repository of the client which tests it's installation, and checks if the package publication was succesfull.
 * [Repository containing the package sources](https://github.com/ULL-ESIT-PL-1718/oop-alu0100973914.git)
 * [Testing repository](https://github.com/ULL-ESIT-PL-1718/prueba-oop-alu0100973914.git)
+* [Practice class challenge repository](https://github.com/ULL-ESIT-PL-1718/alu0100973914-ColorCell-oop-plugin.git)
 
 ## Package publication
 The other objective to achieve was the publication of our package (as a scoped package)  in npm site. After establishing properly the **package.json** file and login in via command line we could execute the next command to publish our package:
@@ -29,4 +30,9 @@ hods of the registry class **addMapClass** and **findClass**. These two methods 
 
 ## Npm package badge
 A npm package badge have been added to the README.md file of the module, [see](https://github.com/ULL-ESIT-PL-1718/oop-alu0100973914.git)
+
+
+## Practice class Challenge
+* [This repository](https://github.com/ULL-ESIT-PL-1718/alu0100973914-ColorCell-oop-plugin.git) contains the source of the practice class challenge.
+* [NPM publication](https://www.npmjs.com/package/@alu0100973914/colorcell-oop-plugin)
 

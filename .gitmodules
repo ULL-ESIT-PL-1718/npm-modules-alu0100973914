@@ -4,3 +4,6 @@
 [submodule "prueba-oop-alu0100973914"]
 	path = prueba-oop-alu0100973914
 	url = git@github.com:ULL-ESIT-PL-1718/prueba-oop-alu0100973914.git
+[submodule "alu0100973914-ColorCell-oop-plugin"]
+	path = alu0100973914-ColorCell-oop-plugin
+	url = https://github.com/ULL-ESIT-PL-1718/alu0100973914-ColorCell-oop-plugin.git
